@@ -1,5 +1,5 @@
-body {
+body{
   text-align: center;
-  background-image: url("images/libraryandgirl.png");
-  font-family: Helvetica;
+  background: url("images/libraryandgirl.png");
+  background-size: cover;
 }
