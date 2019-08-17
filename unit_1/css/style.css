@@ -1,7 +1,8 @@
 body{
 	background-color: #440099;
+	color:#E6E6FA;
 }
 
-h1,h3,p{
-	color:#E6E6FA;
+cite{
+	color:#FFFFFF;
 }
